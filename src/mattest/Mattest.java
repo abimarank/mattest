@@ -3,6 +3,8 @@ package mattest;
 import matlabcontrol.*;
 
 public class Mattest {
+    
+    String x = "some";
 
     public static void main(String[] args)
             throws MatlabConnectionException, MatlabInvocationException {
